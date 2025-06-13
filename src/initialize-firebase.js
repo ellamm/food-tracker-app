@@ -40,6 +40,4 @@ const unsubscribe = onValue(
   }
 );
 
-unsubscribe();
-
 export default app;
