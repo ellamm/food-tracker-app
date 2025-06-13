@@ -1,8 +1,8 @@
+require("dotenv").config();
+
 import { initializeApp } from "firebase/app";
 import { initializeApp } from "firebase/app";
 import { getDatabase, ref, onValue, get } from "firebase/database";
-
-require("dotenv").config();
 
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
