@@ -1,6 +1,4 @@
-require("dotenv").config();
-
-import { initializeApp } from "firebase/app";
+import "dotenv/config";
 import { initializeApp } from "firebase/app";
 import { getDatabase, ref, onValue, get } from "firebase/database";
 
