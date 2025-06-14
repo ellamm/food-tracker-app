@@ -5,7 +5,7 @@ This is the final project for [learnjavascript.online](https://learnjavascript.o
 
 🌐 **Live App**: [https://food-tracker-app.netlify.app/](https://food-tracker-app.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/food-tracker-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f25bf741-4ab8-4676-81bb-f15f0e0e6ecf/deploy-status)](https://app.netlify.com/projects/food-tracker-app/deploys)
 
 ## 📱 About
 
@@ -38,14 +38,6 @@ The Food Tracker App helps users monitor their daily nutrition by logging foods 
    - Fat: 9 calories per gram
 3. **Track Progress**: View total calories and food log
 4. **Persistent Data**: Your entries are saved in a firebase cloud storage
-
-## 📸 Screenshots
-
-### Main Interface
-![Food Tracker Main Screen](./screenshots/main-interface.png)
-
-### Mobile View
-![Mobile Responsive Design](./screenshots/mobile-view.png)
 
 ## 🎨 Design Principles
 
